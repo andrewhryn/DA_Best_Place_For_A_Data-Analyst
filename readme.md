@@ -1,10 +1,7 @@
 # Best Place for a Data Analyst: Indeed Market Analysis 📊
 
 ## Introduction
-Hey there! Ever wondered where the best places are for data analysts in Canada? This project dives into job availability, salary ranges, and market trends to find the top spots! 🌟
-
-## Background
-Using data from Indeed, I analyzed the job market for data analysts across various Canadian cities. The data was scraped using custom scripts to get the latest info. 📈💻
+Hey there! Ever wondered where the best places are for data analysts in Canada? This project dives into job availability, salary ranges, and market trends to find the top spots! 🌟 Using data from Indeed, I analyzed the job market for data analysts across various Canadian cities. The data was scraped using custom scripts to get the latest info. 📈💻
 
 ## Tools I Used
 - **Tableau**: For creating stunning visualizations. 📊
@@ -39,20 +36,9 @@ Using data from Indeed, I analyzed the job market for data analysts across vario
 - Published the dashboard on Tableau Public.
 - Shared the project link for everyone to explore and provide feedback.
 
-## What I Learned
-### Top Locations 🏙️
-Found Canadian cities with the most job opportunities and best salaries for data analysts, like Toronto, Vancouver, and Montreal.
-
-### Salary Variations 💵
-Noticed big differences in salaries across locations, with some cities offering much higher pay due to cost of living and demand for skills.
-
-### Market Demand 📉📈
-Spotted trends in job postings over time, like more openings in the tech industry and more remote work options.
-
 ## Tier List
-![Tier List for Data Analysts in Canada](https://github.com/YourUsername/YourRepositoryName/raw/main/path/to/image.png)
+![tier_list](https://github.com/MadGrib/Best-Place-for-a-Data-Analyst-Job-Market-Analysis/assets/93443868/2ead8221-5d78-41f2-b86d-fc796e4cf948)
 
-Here is the tier list of the best cities for data analysts in Canada:
 
 ### S-Tier (Top Cities)
 - **Toronto**: High job availability and competitive salaries.
@@ -61,7 +47,7 @@ Here is the tier list of the best cities for data analysts in Canada:
 ### A-Tier (Excellent Choices)
 - **Montreal**: Good job market and decent salaries.
 - **Ottawa**: Steady demand with good compensation.
-
+ще 
 ### B-Tier (Good Options)
 - **Calgary**: Moderate job availability and competitive salaries.
 - **Edmonton**: Decent job market with average salaries.
@@ -77,8 +63,21 @@ Here is the tier list of the best cities for data analysts in Canada:
 
 For more detailed insights, visit the [Tableau Dashboard](https://public.tableau.com/app/profile/andrii.hryn/viz/BestPlaceforaDataAnalystIndeedMarketAnalysis/Dashboard32).
 
-## Conclusions
-This project reveals the best Canadian cities for data analysts based on job availability and salary potential. It’s a great resource for data analysts looking to make informed career choices, whether moving to a new city or finding remote work. 🌟
+## Key Takeaways
+
+1. **Toronto and Vancouver Stand Out**: Both cities are the top choices for data analysts, offering high job availability and competitive salaries. Toronto, with its robust tech industry, and Vancouver, with its attractive salary packages, provide excellent opportunities for data professionals.
+
+2. **Emerging Cities**: Cities like Montreal and Ottawa also present great opportunities with steady demand and good compensation. These cities are excellent choices for data analysts looking for a balance of job availability and quality of life.
+
+3. **Competitive Salaries**: Salary variations are significant across different locations. For example, while cities like Calgary and Edmonton offer moderate job availability, they provide competitive salaries, making them attractive options for data analysts.
+
+4. **Smaller Markets**: Cities such as Quebec City and Winnipeg have smaller markets but still offer reasonable salaries. These cities might be ideal for those who prefer a smaller urban environment with less competition.
+
+5. **Less Attractive Options**: Hamilton, Halifax, and Regina are less attractive for data analysts due to fewer job postings and lower salary ranges. However, they can still be considered based on personal preferences and other factors like cost of living.
+
+6. **Market Trends**: The analysis also highlights market trends such as the increasing number of job openings in the tech industry and the growing prevalence of remote work options. These trends indicate a dynamic job market that continues to evolve.
+
+Overall, this project serves as a valuable resource for data analysts seeking to make informed career decisions. Whether you're considering relocation or exploring remote work opportunities, the insights provided can help guide your choices. 🌟
 
 ## How to Access the Dashboard
 Check out all the detailed insights and cool visualizations on the [Tableau Dashboard](https://public.tableau.com/app/profile/andrii.hryn/viz/BestPlaceforaDataAnalystIndeedMarketAnalysis/Dashboard32).
