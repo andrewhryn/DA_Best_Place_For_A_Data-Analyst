@@ -1,69 +1,79 @@
-# Best Place for a Data Analyst: Indeed Market Analysis 📊
 
-## Introduction
-Hey there! Ever wondered where the best places are for data analysts in Canada? This project dives into job availability, salary ranges, and market trends to find the top spots! 🌟 Using data from Indeed, I analyzed the job market for data analysts across various Canadian cities. The data was scraped using custom scripts to get the latest info. 📈💻
+# Best Place for a Data Analyst: Indeed Market Analysis 🌐📊 
 
-## Tools I Used
+![Python](https://img.shields.io/badge/Python-3.8%2B-FFD700?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-FFD700?logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-2020.3-FFD700?logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1.2.0-FFD700?logo=pandas&logoColor=white)
+
+
+## Introduction 🌟
+Hey there! Ever wondered where the best places are for data analysts in Canada? This project dives into job availability, salary ranges, and market trends to find the top spots! Using data from Indeed, I analyzed the job market for data analysts across various Canadian cities. The data was scraped using custom scripts to get the latest info.
+
+![small_HowToUse](https://github.com/MadGrib/Best-Place-for-a-Data-Analyst-Job-Market-Analysis/assets/93443868/8d76f822-0e7b-4994-8b64-0b2bd323d8e1)
+
+## Tools I Used 🛠️
 - **Tableau**: For creating stunning visualizations. 📊
-- **Indeed**: The go-to source for job market data. 🏢
 - **SQL**: To clean and prepare the data. 🧹
 - **Python**: For web scraping with custom scripts (check out [DA_Indeed_Job_Scraping_Canada](https://github.com/MadGrib/DA_Indeed_Job_Scraping_Canada)). 🐍
 
-## The Analysis
-### Data Collection
+## The Analysis 🔍
+### Data Collection 📝
 - Scraped job postings from Indeed using Python.
 - Extracted data: job titles, locations, salaries, and posting dates.
 
-### Data Preparation
+### Data Preparation 🧹
 - Cleaned and formatted data in SQL.
 - Removed duplicates and irrelevant entries.
 - Standardized salary formats and job titles.
 
-### Data Analysis
+### Data Analysis 📊
 - Imported data into Tableau.
 - Created visualizations to analyze job availability, salary ranges, and trends.
 
-### Dashboard Creation
+### Dashboard Creation 🖥️
 - Designed an interactive Tableau dashboard.
 - Included filters for city, salary range, and job type.
 - Added tooltips for detailed information on data points.
 
-### Insights and Conclusions
+### Insights and Conclusions 📉📈
 - Analyzed visualizations to pinpoint top locations for data analysts.
 - Summarized key findings on job market trends and salary variations.
 
-### Deployment
+### Deployment 🌐
 - Published the dashboard on Tableau Public.
 - Shared the project link for everyone to explore and provide feedback.
 
-## Tier List
-![tier_list](https://github.com/MadGrib/Best-Place-for-a-Data-Analyst-Job-Market-Analysis/assets/93443868/2ead8221-5d78-41f2-b86d-fc796e4cf948)
+## Tier List 🏆
+
+![tier_list](https://github.com/MadGrib/Best-Place-for-a-Data-Analyst-Job-Market-Analysis/assets/93443868/247e70dc-c436-47c1-a08c-0033dd0d2e1d)
 
 
-### S-Tier (Top Cities)
+### S-Tier (Top Cities) 🥇
 - **Toronto**: High job availability and competitive salaries.
 - **Vancouver**: Strong demand for data analysts with attractive salary packages.
 
-### A-Tier (Excellent Choices)
+### A-Tier (Excellent Choices) 🥈
 - **Montreal**: Good job market and decent salaries.
 - **Ottawa**: Steady demand with good compensation.
-ще 
-### B-Tier (Good Options)
+
+### B-Tier (Good Options) 🥉
 - **Calgary**: Moderate job availability and competitive salaries.
 - **Edmonton**: Decent job market with average salaries.
 
-### C-Tier (Fair Options)
+### C-Tier (Fair Options) 🎖️
 - **Quebec City**: Limited job opportunities but reasonable salaries.
 - **Winnipeg**: Smaller market but decent pay for data analysts.
 
-### D-Tier (Less Attractive)
+### D-Tier (Less Attractive) 🎗️
 - **Hamilton**: Fewer job postings and lower salary ranges.
 - **Halifax**: Limited opportunities and lower compensation compared to other cities.
 - **Regina**: Few job opportunities and lower salary ranges.
 
 For more detailed insights, visit the [Tableau Dashboard](https://public.tableau.com/app/profile/andrii.hryn/viz/BestPlaceforaDataAnalystIndeedMarketAnalysis/Dashboard32).
 
-## Key Takeaways
+## Conclusions 📝
+This project reveals valuable insights into the best Canadian cities for data analysts based on job availability and salary potential. Here are some of the key takeaways:
 
 1. **Toronto and Vancouver Stand Out**: Both cities are the top choices for data analysts, offering high job availability and competitive salaries. Toronto, with its robust tech industry, and Vancouver, with its attractive salary packages, provide excellent opportunities for data professionals.
 
@@ -79,9 +89,11 @@ For more detailed insights, visit the [Tableau Dashboard](https://public.tableau
 
 Overall, this project serves as a valuable resource for data analysts seeking to make informed career decisions. Whether you're considering relocation or exploring remote work opportunities, the insights provided can help guide your choices. 🌟
 
-## How to Access the Dashboard
+## How to Access the Dashboard 🌐
 Check out all the detailed insights and cool visualizations on the [Tableau Dashboard](https://public.tableau.com/app/profile/andrii.hryn/viz/BestPlaceforaDataAnalystIndeedMarketAnalysis/Dashboard32).
 
 ---
 
 Thanks for stopping by! If you have any questions or suggestions, feel free to reach out or contribute to the project on GitHub. 🙌
+
+---
