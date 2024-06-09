@@ -1,5 +1,4 @@
-
-# Best Place for a Data Analyst: Indeed Market Analysis 🌐📊
+# Best Place for a Data Analyst: Indeed Market Analysis 📊
 
 ## Introduction
 Hey there! Ever wondered where the best places are for data analysts in Canada? This project dives into job availability, salary ranges, and market trends to find the top spots! 🌟
@@ -8,7 +7,7 @@ Hey there! Ever wondered where the best places are for data analysts in Canada? 
 Using data from Indeed, I analyzed the job market for data analysts across various Canadian cities. The data was scraped using custom scripts to get the latest info. 📈💻
 
 ## Tools I Used
-- **Tableau****: For creating stunning visualizations. 📊
+- **Tableau**: For creating stunning visualizations. 📊
 - **Indeed**: The go-to source for job market data. 🏢
 - **SQL**: To clean and prepare the data. 🧹
 - **Python**: For web scraping with custom scripts (check out [DA_Indeed_Job_Scraping_Canada](https://github.com/MadGrib/DA_Indeed_Job_Scraping_Canada)). 🐍
@@ -51,6 +50,8 @@ Noticed big differences in salaries across locations, with some cities offering 
 Spotted trends in job postings over time, like more openings in the tech industry and more remote work options.
 
 ## Tier List
+![Tier List for Data Analysts in Canada](https://github.com/YourUsername/YourRepositoryName/raw/main/path/to/image.png)
+
 Here is the tier list of the best cities for data analysts in Canada:
 
 ### S-Tier (Top Cities)
@@ -75,8 +76,6 @@ Here is the tier list of the best cities for data analysts in Canada:
 - **Regina**: Few job opportunities and lower salary ranges.
 
 For more detailed insights, visit the [Tableau Dashboard](https://public.tableau.com/app/profile/andrii.hryn/viz/BestPlaceforaDataAnalystIndeedMarketAnalysis/Dashboard32).
-
-![Tier List for Data Analysts in Canada](sandbox:/mnt/data/Tier_List_for_Data_Analysts_Canada_Final.png)
 
 ## Conclusions
 This project reveals the best Canadian cities for data analysts based on job availability and salary potential. It’s a great resource for data analysts looking to make informed career choices, whether moving to a new city or finding remote work. 🌟
