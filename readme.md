@@ -1,10 +1,11 @@
 
 # Best Place for a Data Analyst: Indeed Market Analysis 🌐📊 
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-FFD700?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-FFD700?logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-2020.3-FFD700?logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1.2.0-FFD700?logo=pandas&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-Andrew%20H-FFD700?logo=github&logoColor=white&style=for-the-badge)](https://github.com/MadGrib)
+![Python](https://img.shields.io/badge/Python-3.8%2B-FFD700?logo=python&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-FFD700?logo=postgresql&logoColor=white&style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-2020.3-FFD700?logo=tableau&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-1.2.0-FFD700?logo=pandas&logoColor=white&style=for-the-badge)
 
 
 ## Introduction 🌟
